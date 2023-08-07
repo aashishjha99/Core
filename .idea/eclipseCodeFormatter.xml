@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrdering" value="ECLIPSE_44" />
+        <option name="pathToConfigFileJava" value="E:/Books/mis-formatting.xml" />
+        <option name="selectedJavaProfile" value="MISAdaptedStyle" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>

@@ -1,12 +1,6 @@
 
-]
--src/lld/decoratordesignpattern/Magherita.java,6\5\650aac9c803b85232e583d48f21ab7d56a4eb0c8
 ^
 .src/lld/factorydesignpattern/ShapeFactory.java,4\d\4d24c9872b60a4bd2b336d7882bcbd3fc0351900
-_
-/src/lld/decoratordesignpattern/extracheese.java,2\8\28cd896c24a37056f2d93d60c18c9cba7bfcf54c
-]
--src/lld/decoratordesignpattern/Decorator.java,c\a\ca381f0558c0684c1e706d52bab63d49741c59dd
 X
 (src/lld/factorydesignpattern/Square.java,f\2\f250eecec17cf46eb95b026150d4753510d1bb39
 W
@@ -21,3 +15,15 @@ Z
 *src/lld/StrategyDesignPattern/Vehicle.java,5\c\5c2d5f91bd8be4e4f279548ecfaba38d5d02be03
 [
 +src/lld/tictocgame/model/PlayingPieceX.java,9\3\93d45ba32d6b84374d839e0fe8b92edee564fa7a
+R
+"src/lld/parking/gate/ExitGate.java,9\f\9fa00295c43ef2ec68a6b39b3ca10cdc1991080a
+S
+#src/lld/parking/gate/EntryGate.java,f\2\f2bc14d0243cabf19ea06fbf6adf3ce5b15e6555
+g
+7src/lld/parking/parkingspace/TwoWheelerParkingSpot.java,7\1\71166a4bec3c29d2b9ed94451e0d0c105764488c
+X
+(src/lld/parking/payment/HourlyBasis.java,f\3\f3058c13246b8f1d91f2fc002a8a2f0493c6971d
+e
+5src/lld/parking/parkingspace/ParkingSpaceFactory.java,8\2\82d86c8698fe47e546ab34993fa6afbb8573a2e4
+M
+src/algorithm/PrimeSieve.java,6\c\6c0d71a4c9f31a8c917f575a88bdfa8e8fc2ee20

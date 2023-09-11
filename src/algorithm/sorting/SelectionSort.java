@@ -45,5 +45,8 @@ public class SelectionSort {
     System.out.println();
     // Call the selectionSort function to sort the array
     SelectionSort.selectionSort(arr);
+
+
   }
+
 }
